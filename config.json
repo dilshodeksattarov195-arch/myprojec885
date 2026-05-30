@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderselete",
+        "uuid": 1971780,
+        "checksum": "g8b1ds"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
